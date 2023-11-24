@@ -5,6 +5,7 @@
  - Next.js
  - Tailwind CSS
  - clsx
+ - clerk
 ```
 
 ## install
